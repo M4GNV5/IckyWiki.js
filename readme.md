@@ -1,6 +1,6 @@
 #IckyWiki.js
 
-IckyWiki implements the [basic wiki priciples](http://c2.com/cgi/wiki?WikiPrinciples) implemented in only 7 lines of javascript code (551 character).
+IckyWiki implements the [basic wiki priciples](http://c2.com/cgi/wiki?WikiPrinciples) in only 7 lines (a max 80 chars) of javascript code, including a WYSIWYG editor, AutomaticLinkGeneration, BackLinks, Editable by everyone, and url parsing (last one actually not required by the minimal set of principles). All data is saved in a file called p.json in your IckyWiki directory (you probably shouldnt have this on a SSD)
 
 Special thanks go to Kate for the idea and the feedback :)
 
